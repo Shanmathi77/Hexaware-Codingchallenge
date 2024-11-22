@@ -1,0 +1,5 @@
+C:\Users\shanmathi\source\repos\PETPALS_II\obj\Debug\net6.0\PETPALS_II.csproj.AssemblyReference.cache
+C:\Users\shanmathi\source\repos\PETPALS_II\obj\Debug\net6.0\PETPALS_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shanmathi\source\repos\PETPALS_II\obj\Debug\net6.0\PETPALS_II.AssemblyInfoInputs.cache
+C:\Users\shanmathi\source\repos\PETPALS_II\obj\Debug\net6.0\PETPALS_II.AssemblyInfo.cs
+C:\Users\shanmathi\source\repos\PETPALS_II\obj\Debug\net6.0\PETPALS_II.csproj.CoreCompileInputs.cache
